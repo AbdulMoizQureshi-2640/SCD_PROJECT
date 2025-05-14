@@ -1,0 +1,11 @@
+node_modules
+client/node_modules
+server/node_modules
+client/public
+client/src
+client/.env
+client/.git
+server/.git
+*.log
+.dockerignore
+.gitignore
